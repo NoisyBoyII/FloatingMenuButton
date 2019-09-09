@@ -1,10 +1,3 @@
-//
-//  FloatingMenuBtn.swift
-//  t4est
-//
-//  Created by Pratap Singh on 28/08/19.
-//  Copyright © 2019 Pratap Singh. All rights reserved.
-//
 
 import UIKit
 
